@@ -1,0 +1,12 @@
+# entornos y cachés
+.venv/
+__pycache__/
+*.pyc
+
+# archivos del bot
+.env
+wallets/
+bot_db.json
+
+# docker
+*.log
